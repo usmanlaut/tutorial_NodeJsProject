@@ -1,0 +1,2 @@
+20250429	19:27:55	3c364a72-d215-4901-b1fe-9de41e7235f3	Error: Not allowed by CORS
+20250429	20:51:42	d1d53363-ee6a-412c-bbbe-e8fa3e12f3aa	TypeError: req.accepted is not a function
