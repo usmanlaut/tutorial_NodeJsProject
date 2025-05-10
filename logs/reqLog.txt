@@ -34,3 +34,11 @@
 20250501	22:45:01	2663a613-22a3-4ced-821f-99503fed12dc	PUT	undefined	/employees
 20250501	23:03:37	ac854cf2-75bf-4812-9447-1d987f6dd5b7	DELETE	undefined	/employees
 20250501	23:04:23	59a0a9d4-2840-4468-a003-76bd3a553d2d	GET	undefined	/employees/1
+20250510	10:03:27	7f0e2e3f-23ab-4c38-b274-bad3c40d18a7	GET	undefined	/
+20250510	10:03:27	c4a009b0-32b9-48c2-ae5b-bf8bbeac3b19	GET	undefined	/css/style.css
+20250510	10:03:30	cdfcdd93-4410-43bf-968b-e35271650162	GET	undefined	/favicon.ico
+20250510	10:14:03	98dca980-ad9f-474c-94c1-79f626313685	POST	undefined	/register
+20250510	10:50:59	56baedb3-5d08-454a-b9bb-3fe61e8514d6	POST	undefined	/register
+20250510	11:23:58	e989eb24-5cf0-49a1-a879-46f6c2c6ddff	POST	undefined	/auth
+20250510	11:24:11	7089c096-2e69-4e76-a8d0-b30f1b31607c	POST	undefined	/auth
+20250510	11:24:37	9405c2e8-4b82-4ea9-b1a4-029bdbd181ed	POST	undefined	/register
