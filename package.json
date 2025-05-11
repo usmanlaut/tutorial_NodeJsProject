@@ -1,7 +1,7 @@
 {
-  "name": "nodejs10",
+  "name": "nodejs11",
   "version": "1.0.0",
-  "description": "User Password Authentication",
+  "description": "JWT Authentication",
   "license": "ISC",
   "author": "Asyraf Azlan",
   "type": "commonjs",
