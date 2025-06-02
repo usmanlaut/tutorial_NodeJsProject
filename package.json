@@ -1,7 +1,7 @@
 {
-  "name": "nodejs11",
+  "name": "nodejs12",
   "version": "1.0.0",
-  "description": "JWT Authentication",
+  "description": "How to Authorize User Roles and Permissions",
   "license": "ISC",
   "author": "Asyraf Azlan",
   "type": "commonjs",
