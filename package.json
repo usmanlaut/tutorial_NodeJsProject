@@ -1,7 +1,7 @@
 {
-  "name": "nodejs12",
+  "name": "nodejs13",
   "version": "1.0.0",
-  "description": "How to Authorize User Roles and Permissions",
+  "description": "Intro to MongoDB and Mongoose",
   "license": "ISC",
   "author": "Asyraf Azlan",
   "type": "commonjs",
@@ -18,6 +18,8 @@
     "dotenv": "^16.5.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.15.1",
     "uuid": "^11.1.0"
   },
   "devDependencies": {
